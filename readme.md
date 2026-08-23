@@ -1,4 +1,4 @@
-# First Tauri ReactJS Desktop App
+# First Tauri React Desktop App
 
 
 
@@ -40,7 +40,7 @@ yarn tauri build
 
 ## Misc
 
-[See Desktop ReactJS Boilerplate](https://github.com/kkamara/desktop-reactjs-boilerplate).
+[See Desktop React Boilerplate](https://github.com/kkamara/desktop-react-boilerplate).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
